@@ -28,6 +28,11 @@ function formatRupiah(num) {
       return;
     }
 
+    if (pass !== "24090018") {
+      alert("Password salah! Silahkan ulangi.");
+      return;
+    }
+
     alert("Login berhasil");
     sessionStorage.setItem("uts_user_email", email);
     window.location.href = "dashboard.html";
