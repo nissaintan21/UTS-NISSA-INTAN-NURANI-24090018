@@ -6,3 +6,4 @@ Fungsi tiap halaman
 -dashboard.html	untuk Menampilkan ringkasan data (stats)
 -products.html untuk Menampilkan tabel produk + edit + delete
 
+
