@@ -5,3 +5,4 @@ Fungsi tiap halaman
 -login.html	untuk Autentikasi user → masuk ke dashboard
 -dashboard.html	untuk Menampilkan ringkasan data (stats)
 -products.html untuk Menampilkan tabel produk + edit + delete
+
