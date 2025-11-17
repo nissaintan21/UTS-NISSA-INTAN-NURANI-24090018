@@ -4,7 +4,7 @@ LINK GITHUB PAGES https://nissaintan21.github.io/UTS-NISSA-INTAN-NURANI-24090018
 Fungsi tiap halaman
 1. Halaman Login (login.html)
 Fungsi:
-Tempat pengguna memasukkan email dan password untuk masuk ke aplikasi.
+Tempat pengguna memasukkan email dan password untuk masuk ke web.
 
 Validasi:
 Email dan password tidak boleh kosong.
@@ -26,6 +26,7 @@ Menampilkan tabel daftar produk beserta harga dan stok.
 Fitur:
 Edit produk → klik icon edit, muncul alert nama produk (saat ini belum update data).
 Hapus produk → klik icon delete, hapus dari array dan render ulang tabel.
+
 
 
 
